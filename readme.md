@@ -1,9 +1,7 @@
 Handbook
-
   Category: Malware Reverse Engineering
   Level: hard
   Points: 200
-
 kcal
   Category: Malware Reverse Engineering
   Level: medium
