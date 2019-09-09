@@ -1,7 +1,7 @@
 Writeups
 =========
 
-### Handbook
+##### Handbook
 
   **Category:** Malware Reverse Engineering
   **Level:** hard
@@ -9,7 +9,7 @@ Writeups
   
   TO-DO
 
-### kcal
+##### kcal
 
   **Category:** Malware Reverse Engineering
   **Level:** medium
@@ -17,7 +17,7 @@ Writeups
   
   TO-DO
 
-### Wrong Door
+##### Wrong Door
 
   **Category:** Malware Reverse Engineering
   **Level:** medium
@@ -25,7 +25,7 @@ Writeups
   
   TO-DO
 
-### bflag
+##### bflag
 
   **Category:** Digital Forensics
   **Level:** easy
@@ -33,7 +33,7 @@ Writeups
   
   TO-DO
 
-### Referer Valley
+##### Referer Valley
 
   **Category:** Web Security
   **Level:** medium
@@ -41,15 +41,15 @@ Writeups
   
   TO-DO
 
-### Reward
+##### Reward
 
   **Category:** General Information
   **Level:** easy
   **Points:** 50
   
-  TO-DO
+  **Answer:** BugBounty
 
-### Secret Browser
+##### Secret Browser
 
   **Category:** Web Security
   **Level:** medium
@@ -57,7 +57,7 @@ Writeups
   
   TO-DO
 
-### sgtoe2
+##### sgtoe2
 
   **Category:** Digital Forensics
   **Level:** medium
@@ -65,7 +65,7 @@ Writeups
   
   TO-DO
 
-### Want more Biscuits
+##### Want more Biscuits
 
   **Category:** Web Security
   **Level:** hard
