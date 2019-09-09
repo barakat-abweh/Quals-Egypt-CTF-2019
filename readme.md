@@ -3,19 +3,19 @@ Writeups
 
 ### Handbook
 
-  | **Category:**  | **Level:**  | **Points:**  |
-  |:-----------------------------------------:|:----------------:|:---------------:|
-  |Malware Reverse Engineering |hard |200 |
-  | | | |
+  | **Challenge** | **Category:**  | **Level:**  | **Points:**  |
+  |:---:|:---:|:---:|:---:|
+  | Handbook | Malware Reverse Engineering | hard | 200 |
+  | kcal | Malware Reverse Engineering | medium | 100 |
   | | | |
   | | | |
   
   TO-DO
 
-### kcal
+### 
 
-  **Category:** Malware Reverse Engineering
-  **Level:** medium
+  **Category:** 
+  **Level:** 
   **Points:** 100
   
   TO-DO
