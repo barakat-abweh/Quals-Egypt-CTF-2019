@@ -3,8 +3,12 @@ Writeups
 
 ### Handbook
 
-  | **Category:** Malware Reverse Engineering | **Level:** hard | **Points:** 200 |
+  | **Category:**  | **Level:**  | **Points:**  |
   |:-----------------------------------------:|:----------------:|:---------------:|
+  |Malware Reverse Engineering |hard |200 |
+  | | | |
+  | | | |
+  | | | |
   
   TO-DO
 
